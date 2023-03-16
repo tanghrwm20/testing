@@ -7,6 +7,7 @@
 /**
  *
  * @author Testing */
+void myTest()
 public class Student {
     String name;
     
