@@ -7,7 +7,6 @@
 /**
  *
  * @author Testing */
-void myTest()
 public class Student {
     String name;
     
@@ -39,5 +38,5 @@ public class Student {
      System.out.println("Hello");
      return;
 }
-
+void myTest()
 }
